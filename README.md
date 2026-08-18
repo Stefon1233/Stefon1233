@@ -253,26 +253,6 @@ synchronization, account lockouts, network drives, printers, and USB devices.
 
 ---
 
-## RTSP Camera Automation
-
-Automation project using networking and command-line tools to manage camera 
-recording workflows.
-
-Technologies:
-- FFmpeg
-- Bash
-- RTSP
-- Network streaming
-- Automated recording
-- File organization
-- Process monitoring
-- macOS Terminal
-
-[View RTSP Camera 
-Automation](https://github.com/Stefon1233/RTSP-Camera-Automation)
-
----
-
 ## 🎓 Certification
 
 **Google IT Support Professional Certificate**
