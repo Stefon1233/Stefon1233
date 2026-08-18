@@ -1,178 +1,330 @@
 # Hi, I'm Stefon 👋
 
-## Aspiring IT Support Professional
+## IT Support | Help Desk | Microsoft 365 | Active Directory | Networking
 
-I recently completed the Google IT Support Professional Certificate and am building hands-on experience through IT home labs, troubleshooting projects, technical documentation, networking exercises, and automation scripts.
+I am an IT support professional building hands-on experience through home labs, 
+troubleshooting portfolios, automation projects, and technical documentation.
 
-I am currently working toward an entry-level role in IT Support, Help Desk, Desktop Support, or Technical Support.
+I completed the Google IT Support Professional Certificate and have built 
+practical projects covering Windows administration, Microsoft 365, Active 
+Directory, networking, PowerShell, help desk troubleshooting, and disaster 
+recovery.
 
-## Certifications
+I am pursuing opportunities in IT Support, Help Desk, Desktop Support, and 
+Technical Support.
 
-* Google IT Support Professional Certificate
-* Additional IT labs and projects in progress
-* Working on CompTIA A+ Certification
-  
-## Technical Skills
+---
 
-* Windows 10 and Windows 11
-* Windows Server
-* Active Directory
-* Microsoft 365
-* Microsoft Entra ID
-* PowerShell
-* Command Prompt
-* TCP/IP
-* DNS and DHCP
-* Wi-Fi troubleshooting
-* VPN troubleshooting
-* Hardware and software support
-* User account management
-* Password resets and account recovery
-* VirtualBox
-* macOS
-* Linux fundamentals
-* Git and GitHub
-* Technical documentation
-* Customer support
+## 🛠 Technical Skills
 
-## Featured Projects
+### Systems & Administration
+- Windows 10 / 11
+- Windows Server 2022
+- Active Directory Domain Services
+- Microsoft 365 Administration
+- Microsoft Entra ID
+- Exchange Online
+- Microsoft Teams
+- SharePoint
+- VirtualBox
+- macOS
+- Linux fundamentals
 
-### Windows Active Directory Home Lab
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- IPv4
+- Ping and connectivity testing
+- DNS resolution troubleshooting
+- Port testing
+- Route and latency troubleshooting
+- Wi-Fi troubleshooting
+- Network diagnostics
 
-A Windows Server and Windows 10 virtual lab demonstrating:
+### Scripting & Tools
+- PowerShell
+- Command Prompt
+- Bash
+- Git & GitHub
+- FFmpeg
+- VS Code
 
-* Active Directory Domain Services
-* Domain controller setup
-* User and group creation
-* Organizational Units
-* Password resets
-* Account unlocking
-* Group Policy
-* DNS configuration
-* Domain joining
+### IT Support
+- User account administration
+- Password resets
+- Account lockouts
+- Microsoft 365 licensing
+- MFA
+- Shared mailboxes
+- Group and permission management
+- Network drive mapping
+- Hardware troubleshooting
+- Software troubleshooting
+- Technical documentation
+- Root cause analysis
 
-[View Project](https://github.com/Stefon1233/Windows-Active-Directory-Home-Lab)
+---
 
-### Microsoft 365 Admin Lab
+# 🚀 Featured Projects
 
-A hands-on Microsoft 365 administration project covering:
+## Microsoft 365 Administration Lab
 
-* User account creation
-* License assignment
-* Password resets
-* Multi-factor authentication
-* Shared mailboxes
-* Microsoft Entra ID
-* Exchange Online
-* Microsoft Teams administration
+Hands-on Microsoft 365 business environment demonstrating administration and 
+help desk workflows.
 
-[View Project](https://github.com/Stefon1233/Microsoft-365-Admin-Lab)
+Highlights:
+- 10+ Microsoft 365 users
+- Microsoft Entra ID administration
+- License assignment and troubleshooting
+- Password resets and account access
+- MFA configuration
+- Microsoft Teams administration
+- SharePoint administration
+- Exchange Online
+- Shared mailboxes and distribution lists
+- Employee onboarding and offboarding
+- 10 documented support scenarios
 
-### Help Desk Ticket Portfolio
+[View Microsoft 365 Administration 
+Lab](https://github.com/Stefon1233/Microsoft-365-Admin-Lab)
 
-A collection of realistic IT support tickets documenting:
+---
 
-* Reported issue
-* User symptoms
-* Troubleshooting process
-* Root cause
-* Resolution
-* Customer communication
-* Lessons learned
+## Windows Active Directory Home Lab
 
-[View Project](https://github.com/Stefon1233/Help-Desk-Ticket-Portfolio))
+Windows Server 2022 and Windows 10 virtual environment demonstrating enterprise 
+identity and domain administration.
 
-### Network Troubleshooting Portfolio
+Highlights:
+- Active Directory Domain Services
+- Domain controller deployment
+- Organizational Units
+- 20 user accounts
+- Department and role-based security groups
+- DNS and DHCP
+- Group Policy
+- Domain-joined Windows clients
+- SMB file shares
+- NTFS permissions
+- Network drive mapping
+- Authentication and access troubleshooting
 
-Networking labs demonstrating the use of:
+[View Windows Active Directory Home 
+Lab](https://github.com/Stefon1233/Windows-Active-Directory-Home-Lab)
 
-* ping
-* ipconfig
-* tracert
-* nslookup
-* DNS troubleshooting
-* DHCP troubleshooting
-* Wi-Fi diagnostics
-* TCP/IP fundamentals
+---
 
-[View Project](https://github.com/Stefon1233/Network-Troubleshooting-Portfolio)
+## Network Troubleshooting Portfolio
 
-### PowerShell Automation Scripts
-
-Beginner PowerShell scripts created to automate common IT tasks, including:
-
-* Displaying system information
-* Checking IP addresses
-* Monitoring disk space
-* Listing running processes
-* Creating folders
-* Cleaning temporary files
-* Restarting Windows services
-
-[View Project](https://github.com/Stefon1233/PowerShell-Automation-Scripts)
-
-### RTSP Camera Automation
-
-A real-world camera recording and automation project using:
-
-* FFmpeg
-* Bash scripts
-* RTSP networking
-* Automated recording
-* File organization
-* Process monitoring
-* macOS Terminal
-
-[View Project](https://github.com/Stefon1233/RTSP-Camera-Automation)
-
-###IT Knowledge Base
-
-A growing collection of step-by-step technical documentation and support articles designed to solve common IT issues and provide quick reference guides.
+Collection of hands-on networking scenarios demonstrating a structured 
+troubleshooting methodology.
 
 Topics include:
+- IP configuration
+- Gateway connectivity
+- DNS troubleshooting
+- DHCP
+- TCP/IP
+- Route analysis
+- Port and service testing
+- Network latency
+- Packet loss
+- HTTP and TLS troubleshooting
+- Connectivity isolation
 
-* Password resets
-* Printer installation and troubleshooting
-* Mapping network drives
-* DNS cache flushing
-* VPN setup and troubleshooting
-* Windows Updates
-* Remote Desktop configuration
-* Creating local user accounts
-* Network file sharing
-* Microsoft Office installation
-* Disk cleanup and storage management
-* Basic Windows troubleshooting
+[View Network Troubleshooting 
+Portfolio](https://github.com/Stefon1233/Network-Troubleshooting-Portfolio)
 
-[View Project](]https://github.com/Stefon1233/IT-Knowledge-Base)
+---
 
-## Currently Learning
+## PowerShell Automation Scripts
 
-* Windows Server administration
-* Active Directory
-* Microsoft 365 administration
-* PowerShell scripting
-* Help desk ticketing workflows
-* Networking and troubleshooting
-* IT security fundamentals
+Collection of 20 PowerShell scripts designed around IT support, system 
+administration, reporting, and troubleshooting.
 
-## Professional Strengths
+Examples include:
+- System information
+- Disk-space checks
+- Network diagnostics
+- Process monitoring
+- Service status
+- Log analysis
+- System health reports
+- Backup automation
+- Help desk auditing
+- File integrity checks
+- Software inventory
+- User account auditing
+- Network port testing
+- System troubleshooting toolkit
 
-* Patient and respectful customer support
-* Clear technical documentation
-* Step-by-step troubleshooting
-* Problem-solving
-* Attention to detail
-* Willingness to learn
-* Experience working in fast-paced environments
-* Ability to explain technical issues in simple language
+[View PowerShell Automation 
+Scripts](https://github.com/Stefon1233/PowerShell-Automation-Scripts)
 
-## Career Goal
+---
 
-My goal is to begin a career in IT Support and continue developing my skills in system administration, Microsoft 365, networking, automation, and cybersecurity.
+## Help Desk Ticket Portfolio
 
-## Connect With Me
+Collection of realistic support tickets documenting the complete troubleshooting 
+lifecycle.
 
-* LinkedIn: [www.linkedin.com/in/stefon-kreller-37621b26a]
-* Email: [Stefonkreller1233@gmail.com]
-* GitHub: [https://github.com/Stefon1233]
+Each ticket demonstrates:
+- User-reported issue
+- Symptoms
+- Environment
+- Investigation
+- Troubleshooting steps
+- Root cause
+- Resolution
+- Verification
+- Customer communication
+- Lessons learned
+
+Scenarios include account access, networking, permissions, Microsoft 365, 
+software, printers, and common desktop-support issues.
+
+[View Help Desk Ticket 
+Portfolio](https://github.com/Stefon1233/Help-Desk-Ticket-Portfolio)
+
+---
+
+## Windows Troubleshooting Portfolio
+
+Technical support guides covering common Windows desktop problems.
+
+Topics include:
+- Blue Screen errors
+- Printer offline issues
+- Slow computers
+- Windows Update
+- No internet access
+- Outlook troubleshooting
+- High CPU usage
+- Driver problems
+- Device Manager errors
+- Login problems
+
+[View Windows Troubleshooting 
+Portfolio](https://github.com/Stefon1233/Windows-Troubleshooting-Portfolio)
+
+---
+
+## Portable IT Technician Disaster Recovery Toolkit
+
+Portable IT support and disaster-recovery project designed around technician 
+workflows and recovery scenarios.
+
+Includes:
+- Portable IT toolkit planning
+- Boot and recovery documentation
+- Network troubleshooting
+- Windows recovery
+- File recovery
+- Disk partitioning
+- Hardware diagnostics
+- Recovery workflow documentation
+- Toolkit inventories
+- Official tool resources
+
+[View Disaster Recovery 
+Toolkit](https://github.com/Stefon1233/portable-it-technician-disaster-recovery-toolkit)
+
+---
+
+## IT Knowledge Base
+
+Reusable technical knowledge base containing step-by-step support procedures 
+across six IT areas.
+
+Categories:
+- Windows
+- Networking
+- Active Directory
+- Microsoft 365
+- PowerShell
+- Hardware
+
+The repository contains troubleshooting procedures for common issues such as DNS 
+failures, internet connectivity, Microsoft 365 licensing, Outlook 
+synchronization, account lockouts, network drives, printers, and USB devices.
+
+[View IT Knowledge Base](https://github.com/Stefon1233/IT-Knowledge-Base)
+
+---
+
+## RTSP Camera Automation
+
+Automation project using networking and command-line tools to manage camera 
+recording workflows.
+
+Technologies:
+- FFmpeg
+- Bash
+- RTSP
+- Network streaming
+- Automated recording
+- File organization
+- Process monitoring
+- macOS Terminal
+
+[View RTSP Camera 
+Automation](https://github.com/Stefon1233/RTSP-Camera-Automation)
+
+---
+
+## 🎓 Certification
+
+**Google IT Support Professional Certificate**
+
+Training included:
+- Technical support fundamentals
+- Computer networking
+- Operating systems
+- System administration
+- IT infrastructure
+- IT security
+
+---
+
+## 📚 Current Focus
+
+I am continuing to strengthen my skills in:
+
+- Windows administration
+- Microsoft 365
+- Active Directory
+- PowerShell automation
+- Networking
+- Help desk workflows
+- IT security fundamentals
+
+---
+
+## 💡 Professional Strengths
+
+- Structured troubleshooting
+- Clear technical documentation
+- Customer-focused technical support
+- Root cause analysis
+- Problem solving
+- Attention to detail
+- Ability to explain technical concepts clearly
+- Experience working in fast-paced environments
+- Continuous learning
+
+---
+
+## 🎯 Career Goal
+
+My goal is to build a career in IT Support while continuing to develop deeper 
+skills in system administration, Microsoft 365, networking, automation, and 
+cloud technologies.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/stefon-kreller-37621b26a
+- Email: Stefonkreller1233@gmail.com
+- GitHub: https://github.com/Stefon1233
