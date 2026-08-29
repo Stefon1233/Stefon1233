@@ -1,6 +1,6 @@
 # Hi, I'm Stefon 👋
 
-## IT Support | Microsoft 365 | Power Platform | Active Directory | Networking | PowerShell
+## IT Support | Microsoft Azure | Microsoft 365 | Entra ID | Intune | Active Directory | PowerShell
 
 I am an IT support professional building hands-on experience through Microsoft 365 labs, Power Platform solutions, Windows administration, networking, automation, troubleshooting projects, and technical documentation.
 
