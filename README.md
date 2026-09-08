@@ -2,10 +2,10 @@
 
 ## IT Support | Microsoft 365 | Entra ID | Active Directory | Azure | Intune | PowerShell
 
-I am building a career in **IT Support, Technical Support, Microsoft 365, Identity & Access Management, Endpoint Management, 
+I am building a career in **IT Support, Technical Support, Microsoft 365, Identity & Access Management, Endpoint Management,
 and Cloud Support**.
 
-I completed the **Google IT Support Professional Certificate** and have built a hands-on technical portfolio focused on 
+I completed the **Google IT Support Professional Certificate** and have built a hands-on technical portfolio focused on
 real-world enterprise support scenarios across Microsoft technologies.
 
 My projects demonstrate practical experience with:
@@ -186,7 +186,7 @@ I am currently pursuing opportunities in:
 
 ## 1. Microsoft Entra Connect Hybrid Identity Lab
 
-Hands-on hybrid identity environment integrating **Windows Server 2022 Active Directory with Microsoft Entra ID using 
+Hands-on hybrid identity environment integrating **Windows Server 2022 Active Directory with Microsoft Entra ID using
 Microsoft Entra Connect Sync**.
 
 ### Highlights
@@ -205,7 +205,7 @@ Microsoft Entra Connect Sync**.
 - Documented 6 hybrid identity support incidents
 - Captured 60 implementation and troubleshooting screenshots
 
-[View Microsoft Entra Connect Hybrid Identity 
+[View Microsoft Entra Connect Hybrid Identity
 Lab](https://github.com/Stefon1233/Microsoft-Entra-Connect-Hybrid-Identity-Lab)
 
 ---
@@ -261,7 +261,7 @@ Hands-on Microsoft Teams administration and troubleshooting environment.
 - 10 documented support incidents
 - 100 implementation and troubleshooting screenshots
 
-[View Microsoft Teams Administration & Support 
+[View Microsoft Teams Administration & Support
 Lab](https://github.com/Stefon1233/Microsoft-Teams-Administration-Support-Lab)
 
 ---
@@ -487,7 +487,7 @@ Troubleshooting scenarios covering TCP/IP, DNS, DHCP, routing, Wi-Fi, packet cap
 
 ## Help Desk Ticket Portfolio
 
-Structured support tickets covering Active Directory, Microsoft 365, networking, Windows, permissions, hardware, and user 
+Structured support tickets covering Active Directory, Microsoft 365, networking, Windows, permissions, hardware, and user
 support.
 
 [View Help Desk Ticket Portfolio](https://github.com/Stefon1233/Help-Desk-Ticket-Portfolio)
@@ -523,7 +523,7 @@ Validate recovery
         ↓
 Document the resolution
 
-My labs emphasize not only completing administrative tasks, but also demonstrating how an issue was diagnosed and why a 
+My labs emphasize not only completing administrative tasks, but also demonstrating how an issue was diagnosed and why a
 particular remediation was selected.
 
 ☁️ Microsoft Enterprise Support Stack
@@ -580,7 +580,7 @@ Active Directory
 Networking
 SaaS / Technical Support
 
-My immediate goal is to apply these skills in a professional IT Support, Technical Support, Microsoft 365, IAM, Endpoint, or 
+My immediate goal is to apply these skills in a professional IT Support, Technical Support, Microsoft 365, IAM, Endpoint, or
 Cloud Support environment.
 
 📫 Connect
@@ -593,5 +593,5 @@ github.com/Stefon1233
 
 Portfolio Focus
 
-Microsoft 365 • Entra ID • Hybrid Identity • Active Directory • Intune • Azure • Defender • Exchange • Teams • ServiceNow • 
+Microsoft 365 • Entra ID • Hybrid Identity • Active Directory • Intune • Azure • Defender • Exchange • Teams • ServiceNow •
 PowerShell • IT Support
